@@ -76,3 +76,4 @@ AskSonic recommends the following Subsonic-compatible music server:
 
 ## License
 AskSonic is licensed under the [MIT License](./LICENSE).
+# subsonic-alexa-go
